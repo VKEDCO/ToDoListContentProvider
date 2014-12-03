@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NotesContentProvider</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_todos">No saved notes</string>
+  	<string name="menu_insert">Add Item</string>
+  	<string name="menu_delete">Delete Item</string>
+  	<string name="note_title">Title</string>
+  	<string name="note_description">Description</string>
+  	<string name="btn_save">Save</string>
+  	<string name="listmenu_insert">Insert</string>
+  	<string name="listmenu_delete">Delete</string>
+  	<string name="reminder_icon_description">reminder icon</string>
+
+</resources>
