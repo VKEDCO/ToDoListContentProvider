@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="note_categories">
+        <item>Research</item>
+        <item>Teaching</item>
+        <item>Service</item>
+    </string-array>
+
+</resources> 
