@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:contentDescription="@string/reminder_icon_description"
+        android:id="@+id/icon"
+        android:layout_width="30dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/reminder" >
+    </ImageView>
+    
+    <TextView 
+        android:id="@+id/note_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:lines="1"
+        android:textSize="24sp" 
+        />
+
+    <TextView
+        android:id="@+id/note_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="10dp"
+        android:lines="1"
+        android:textSize="24sp" 
+        />
+    
+    <TextView 
+        android:id="@+id/note_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:lines="1"
+        android:textSize="24sp" 
+        />
+    
+</LinearLayout> 
